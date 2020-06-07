@@ -4,3 +4,23 @@
     font-family: 微軟正黑體;
     box-sizing: border-box;
 }
+// 導覽列
+nav{
+    background: #252525;
+    padding: 30px 0;
+
+    div{
+        width: 1200px;
+        margin: 0 auto;
+
+        a{
+            color: white;
+            text-decoration: none;
+            padding: 0 30px;
+        }
+    }
+}
+
+#banner{
+    
+}
